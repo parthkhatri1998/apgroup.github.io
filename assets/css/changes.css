@@ -1,0 +1,29 @@
+
+
+/*About upper section CSS*/
+
+.img-size {
+    height: 60px;
+    width: 70px;
+}
+
+.atm-size {
+    height: 70px;
+    width: 50px;
+}
+.fire-size {
+    height: 72px;
+    width: 35px;
+}
+.network-size {
+    height: 72px;
+    width: 45px;
+}
+.bio-size {
+    height: 90px;
+    width: 75px;
+}       
+.cpu-size {
+    height: 80px;
+    width: 60px;
+}
